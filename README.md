@@ -20,3 +20,4 @@ Repositório com os notebooks desenvolvidos durante a disciplina de Inteligênci
 - [Notebook Python no Google Colab](https://colab.research.google.com/drive/10bBhugQd6imAxWAKQQG_DqbS4UlYKuI7?usp=sharing)
 - [Notebook Data Science no Google Colab](https://colab.research.google.com/drive/1OjW1sOYhcoTtdQYOt9U3I6xvwAsT7e4m?usp=sharing)
 - [Notebook Iris + SVM no Kaggle](https://www.kaggle.com/code/davimoraes2012/davi-moraes-iris-dataset)
+- [Notebook Ataque Cardíaco + SVM no Kaggle (SUMMIT)](https://www.kaggle.com/code/davimoraes2012/summit-davimoraes-luizfelipe) 
